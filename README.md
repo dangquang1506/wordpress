@@ -1,0 +1,2 @@
+# wordpress
+Infiniverse-nft wordpress
